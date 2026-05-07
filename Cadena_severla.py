@@ -14,4 +14,3 @@ texto = "Alreves"
 print(f"Original: {texto}")
 print("Al revés: ", end="")
 imprimir_severla(texto)
-print() # Salto de línea final
